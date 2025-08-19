@@ -11,3 +11,11 @@ git remote add origin https://github.com/BhumireddiRaviteja/GIT_PRACTICE.git
 
 git push -u origin main
 
+
+echo "# GIT_EXAM" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/BhumireddiRaviteja/GIT_EXAM.git
+git push -u origin main
