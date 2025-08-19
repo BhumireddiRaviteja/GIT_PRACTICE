@@ -1,0 +1,13 @@
+git init --->to initialize repository
+git status
+git add.
+git commit -m "message" 
+git push 
+-----------------< upto local
+
+central repository:
+
+git remote add origin https://github.com/BhumireddiRaviteja/GIT_PRACTICE.git
+
+git push -u origin main
+
